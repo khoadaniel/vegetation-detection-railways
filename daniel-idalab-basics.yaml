@@ -1,0 +1,15 @@
+name: daniel-idalab-basics-py38
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - keras
+  - tensorflow
+  - joblib
+  - scikit-learn
+  - pytorch
+  - seaborn
+  - matplotlib
+  - opencv-python
+  - segmentation-models-pytorch
+  - pillow
