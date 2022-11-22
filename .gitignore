@@ -4,6 +4,14 @@ Hina/rs19_val/
 Hina/saved_model/
 
 saved_model/
+val/
+val.tar.gz
+.DS_Store
+dataset_depth_mask_200
+image_dataset_200
+mask_dataset_200
+model
+saved_model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
