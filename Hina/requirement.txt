@@ -1,0 +1,14 @@
+  numpy
+  pandas
+  keras
+  tensorflow
+  joblib
+  scikit-learn
+  seaborn
+  matplotlib
+  opencv-python
+  pytorch
+  segmentation-models-pytorch
+  pillow
+  transformers
+  requests
