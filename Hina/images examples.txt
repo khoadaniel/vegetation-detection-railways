@@ -1,0 +1,18 @@
+file='rs00275' (good veg in roi)
+file='rs03635' (not work dilation)
+
+
+file='rs00039' 2 tracks (can be a good example if vegetation is predicted in th road ballast) it is not labelled
+file='rs00136' multiple track lines, can be good to show the ballast
+file ='rs00713' only 1 track , traingle region in the center. the file has vegetaion however no labelled on inner right way
+file= 'rs00140' detcts only a little beg., okayish example
+
+file = 'rs00600' 2 tracks, gap is filled with dilation , as well as remaining after fill gap , check if veg is detected
+note:- hard to detect veg becuase of noise in image like rainbow light
+
+file='rs00230' great exmaple , detects veg in area 
+
+
+realisation with terrain:
+
+file='rs00321' :- must do with terrian mask multiplied , single triangle surround by terrian veg
