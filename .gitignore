@@ -4,6 +4,9 @@ rs19_val/
 Hina/tram/
 Hina/rs19_val/
 Hina/saved_model/
+Hina/saved_images/
+Hina/saved_masks/
+Hina/saved_model/
 
 saved_model/
 val/
