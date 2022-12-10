@@ -16,3 +16,12 @@ file='rs00230' great exmaple , detects veg in area
 realisation with terrain:
 
 file='rs00321' :- must do with terrian mask multiplied , single triangle surround by terrian veg
+
+# tesing of track model
+index 36 -> two rail curves , good prediction
+
+index 202 -> very good example for vegetation do consider
+index 184 -> no veg , but prdiction is good to detetc track
+
+index 186 -> multiple_tracks , can be a . good example to show dilation
+index 108 -> good eetection of rails
